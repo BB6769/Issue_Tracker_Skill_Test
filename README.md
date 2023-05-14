@@ -22,4 +22,4 @@ You should be  first run the command
 -npm start
 
 HOSTED URL-----
-               https://vaidyahimanshuissue-tracker.onrender.com/
+               https://issue-tracker-roqm.onrender.com
